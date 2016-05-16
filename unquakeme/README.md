@@ -1,6 +1,6 @@
 # Unquake me
 
-Unquake.me is a platform that allows a super-fast information gathering after the case of catastrophe. 
+Unquake.me is a platform that allows a super-fast information gathering after the event of a catastrophe. 
 
 Motivation
 ----------
