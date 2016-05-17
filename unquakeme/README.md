@@ -1,6 +1,6 @@
 # Unquake me
 
-Unquake.me is a platform that allows a super-fast information gathering after the event of a catastrophe. 
+Unquake.me is a platform that allows a super-fast in-situ information gathering after the event of a catastrophe. 
 
 Motivation
 ----------
@@ -9,8 +9,9 @@ The first systems that failed were electricity and communications, we wanted to 
 
 Details of the system
 ---------------------
-The idea is to build SOS systems, supported on Raspberry Pi, routers and batteries systems located along the cities. Once the electricity and the communications go down given the disaster, the systems activate and begin to work. 
-This allows us to use a Web Platform to which users can connect after the event and upload different types of indicators about the situation, such as: needs and active services, catastrophe level indicators, or even to ask for rescue with just one click.
+The idea is to build SOS systems.
+The hardware consists of Raspberry Pi, routers (WiFi and ad hoc networks) and batteries systems located along the cities. Once the electricity and the communications go down given the disaster, the systems activate automatically and begin to work. 
+This activates hotspots to which users can connect after the event in order to use a Web Platform where they will upload different types of indicators about the situation, such as: needs and active services, catastrophe level indicators, or even to ask for rescue with just one click and automatically the location is sent to the server. The Platform also allows to report missing people.
 The Raspberry Pi gathers all of the information and stores it. Once the rescue teams arrive, they can access the primary information stored on this servers, or once the communications are restored all the info is sent to the organism responsible for action and the rescue entities.
 
 Why is this important?
